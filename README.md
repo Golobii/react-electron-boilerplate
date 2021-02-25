@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Getting Started with react-electron-boilerplate
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First Run: 
+### `npm i -D electron electron-builder concurrently wait-on`
+### `npm i cross-env electron-is-dev`
+### `npm install`
 
 ## Available Scripts
 
